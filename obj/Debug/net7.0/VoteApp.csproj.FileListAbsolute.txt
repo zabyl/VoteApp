@@ -1,0 +1,15 @@
+C:\Users\ASUS\PatikaDev\VoteApp\bin\Debug\net7.0\VoteApp.exe
+C:\Users\ASUS\PatikaDev\VoteApp\bin\Debug\net7.0\VoteApp.deps.json
+C:\Users\ASUS\PatikaDev\VoteApp\bin\Debug\net7.0\VoteApp.runtimeconfig.json
+C:\Users\ASUS\PatikaDev\VoteApp\bin\Debug\net7.0\VoteApp.dll
+C:\Users\ASUS\PatikaDev\VoteApp\bin\Debug\net7.0\VoteApp.pdb
+C:\Users\ASUS\PatikaDev\VoteApp\obj\Debug\net7.0\VoteApp.csproj.AssemblyReference.cache
+C:\Users\ASUS\PatikaDev\VoteApp\obj\Debug\net7.0\VoteApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\PatikaDev\VoteApp\obj\Debug\net7.0\VoteApp.AssemblyInfoInputs.cache
+C:\Users\ASUS\PatikaDev\VoteApp\obj\Debug\net7.0\VoteApp.AssemblyInfo.cs
+C:\Users\ASUS\PatikaDev\VoteApp\obj\Debug\net7.0\VoteApp.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\PatikaDev\VoteApp\obj\Debug\net7.0\VoteApp.dll
+C:\Users\ASUS\PatikaDev\VoteApp\obj\Debug\net7.0\refint\VoteApp.dll
+C:\Users\ASUS\PatikaDev\VoteApp\obj\Debug\net7.0\VoteApp.pdb
+C:\Users\ASUS\PatikaDev\VoteApp\obj\Debug\net7.0\VoteApp.genruntimeconfig.cache
+C:\Users\ASUS\PatikaDev\VoteApp\obj\Debug\net7.0\ref\VoteApp.dll
